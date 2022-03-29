@@ -1,7 +1,7 @@
 {
   "name": "goal-eater-client",
   "version": "0.1.0",
-  "proxy": "http://localhost:3030",
+  "proxy": "https://goal-eater-server.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.0",
